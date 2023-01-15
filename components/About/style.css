@@ -1,0 +1,19 @@
+.img-overlay-control {
+    filter: grayscale(90%) hue-rotate(50deg);
+    transition: 0.8s;
+}
+
+.img-overlay-control:hover {
+    filter: grayscale(0%);
+}
+
+.tools {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    transition: 0.5s;
+}
+
+.tools:hover {
+    transform: translateY(-10px);
+}

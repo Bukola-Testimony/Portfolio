@@ -1,0 +1,8 @@
+.project-btn {
+    border-radius: 10px;
+    transition: 1s;
+}
+
+.project-btn:hover {
+    transform: translateY(-3px);
+}
