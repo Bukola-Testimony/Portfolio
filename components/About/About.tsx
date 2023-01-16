@@ -44,7 +44,7 @@ const About = () => {
           className="img-overlay-control"
           w={{ base: '15rem', sm: '15rem', md: '15rem', lg: '30rem', xl: '30rem', '2xl': '30rem' }}
           src="portrait.jpg"
-          alt="Emmanuel Oloke Official Portrait"
+          alt="Bukola testimony's Official Portrait"
           borderRadius={10}
         />
       </Box>
@@ -121,7 +121,7 @@ const About = () => {
           <Box className="tools">
             <Image
               src="/aws.png"
-              alt="typescript logo"
+              alt="aws logo"
               w={{ base: '2rem', sm: '2rem', md: '2rem', lg: '3rem', xl: '3rem', '2xl': '3rem' }}
             />
             <Text color="#8c9095" fontWeight="bold" fontSize="md">
@@ -131,7 +131,7 @@ const About = () => {
           <Box className="tools">
             <Image
               src="/git.png"
-              alt="node logo"
+              alt="git logo"
               w={{ base: '2rem', sm: '2rem', md: '2rem', lg: '3rem', xl: '3rem', '2xl': '3rem' }}
             />
             <Text color="#8c9095" fontWeight="bold" fontSize="md">
@@ -141,7 +141,7 @@ const About = () => {
           <Box className="tools">
             <Image
               src="/terraform.png"
-              alt="next logo"
+              alt="terraform logo"
               w={{ base: '2rem', sm: '2rem', md: '2rem', lg: '3rem', xl: '3rem', '2xl': '3rem' }}
             />
             <Text color="#8c9095" fontWeight="bold" fontSize="md">
@@ -151,7 +151,7 @@ const About = () => {
           <Box className="tools">
             <Image
               src="/ansible.png"
-              alt="react logo"
+              alt="ansible logo"
               w={{ base: '2rem', sm: '2rem', md: '2rem', lg: '3rem', xl: '3rem', '2xl': '3rem' }}
             />
             <Text color="#8c9095" fontWeight="bold" fontSize="md">
@@ -161,7 +161,7 @@ const About = () => {
           <Box className="tools">
             <Image
               src="/docker.png"
-              alt="mongodb logo"
+              alt="docker logo"
               w={{ base: '2rem', sm: '2rem', md: '2rem', lg: '3rem', xl: '3rem', '2xl': '3rem' }}
             />
             <Text color="#8c9095" fontWeight="bold" fontSize="md">
@@ -171,7 +171,7 @@ const About = () => {
           <Box className="tools">
             <Image
               src="/linux.png"
-              alt="mongodb logo"
+              alt="linux logo"
               w={{ base: '2rem', sm: '2rem', md: '2rem', lg: '3rem', xl: '3rem', '2xl': '3rem' }}
             />
             <Text color="#8c9095" fontWeight="bold" fontSize="md">
@@ -181,7 +181,7 @@ const About = () => {
           <Box className="tools">
             <Image
               src="/bash.png"
-              alt="mongodb logo"
+              alt="bash logo"
               w={{ base: '2rem', sm: '2rem', md: '2rem', lg: '3rem', xl: '3rem', '2xl': '3rem' }}
             />
             <Text color="#8c9095" fontWeight="bold" fontSize="md">
@@ -211,7 +211,7 @@ const About = () => {
           <Box className="tools">
             <Image
               src="/python.png"
-              alt="javascript logo"
+              alt="python logo"
               borderRadius={'10px'}
               w={{ base: '2rem', sm: '2rem', md: '2rem', lg: '3rem', xl: '3rem', '2xl': '3rem' }}
             />

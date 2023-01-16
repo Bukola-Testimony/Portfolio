@@ -115,7 +115,7 @@ const Projects = () => {
           </Box>
           <Image
             src="/project-architecture.png"
-            alt="Countries Project Preview"
+            alt="Terraform Project Preview"
             width={'40rem'}
             borderRadius="8px"
             data-aos="fade-down-left"
@@ -139,7 +139,7 @@ const Projects = () => {
         >
           <Image
             src="/laravel.png"
-            alt="DevFinder Project Preview"
+            alt="Laravel Project Preview"
             width={'40rem'}
             borderRadius="8px"
             data-aos="fade-right"
@@ -281,7 +281,7 @@ const Projects = () => {
           </Box>
           <Image
             src="/ansible-aws.png"
-            alt="Countries Project Preview"
+            alt="Ansible Project Preview"
             width={'40rem'}
             borderRadius="8px"
             data-aos="fade-up-left"
