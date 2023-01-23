@@ -66,7 +66,7 @@ const Contact = () => {
           <FaLinkedin />
         </Link>
 
-        <Link href="mailto:bukolatestimonyl@gmail.com" target="_blank" className="logo">
+        <Link href="mailto:bukolatestimony1@gmail.com" target="_blank" className="logo">
           <FaEnvelope />
         </Link>
 
