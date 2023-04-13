@@ -109,7 +109,7 @@ const About = () => {
           data-aos="fade-left"
           data-aos-delay="600"
         >
-          Here are few technologies I use:
+          Here are a few technologies I use:
         </Text>
         <Flex
           gap={'15px'}
@@ -131,7 +131,7 @@ const About = () => {
           <Box className="tools">
             <Image
               src="/gcp.png"
-              alt="agoogle cloud logo"
+              alt="google cloud logo"
               w={{ base: '2rem', sm: '2rem', md: '2rem', lg: '3rem', xl: '3rem', '2xl': '3rem' }}
             />
             <Text color="#8c9095" fontWeight="bold" fontSize="md">
@@ -160,8 +160,8 @@ const About = () => {
           </Box>
           <Box className="tools">
             <Image
-              src="/kubernetes.png"
-              alt="kubernetes logo"
+              src="/kubectl.png"
+              alt="kubernetes"
               w={{ base: '2rem', sm: '2rem', md: '2rem', lg: '3rem', xl: '3rem', '2xl': '3rem' }}
             />
             <Text color="#8c9095" fontWeight="bold" fontSize="md">
