@@ -50,7 +50,7 @@ const Hero = () => {
           mt={5}
           w={{ base: '20rem', sm: '25rem', md: '35rem', lg: '35rem', xl: '35rem', '2xl': '35rem' }}
         >
-           I am a Human-resource Consultant and a Cloud DevOps Engineer. I love problem-solving and collaborating with progressive individuals. I constantly engage in personal development. I hope to make a lot of money and travel the world.
+           I am a Human-resource Consultant and a Cloud DevOps Engineer. I love problem-solving and collaborating with progressive minded individuals. I constantly engage in personal development. I hope to make a lot of money and travel the world.
         </Text>
         <Button
           data-aos="fade-up"

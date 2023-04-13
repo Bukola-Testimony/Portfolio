@@ -74,7 +74,7 @@ const About = () => {
           data-aos="fade-left"
           data-aos-delay="300"
         >
-          Hello! My name is Bukola.  I am a Human-resource Consultant and a Cloud Engineer. I love problem-solving and collaborating with progressive individuals. I constantly engage in personal development. I hope to make a lot of money and travel the world.
+          Hello! My name is Bukola.  I am a Human-resource Consultant and a Cloud DevOps Engineer. I love problem-solving and collaborating with progressive minded individuals. I constantly engage in personal development. I hope to make a lot of money and travel the world.
         </Text>
         <Text
           mb={'2rem'}
@@ -93,7 +93,7 @@ const About = () => {
           data-aos="fade-left"
           data-aos-delay="500"
         >
-          I specialize in cloud infrastructure, systems engineering,software installation, automation, and CI/CD pipelines. I have experience with a wide range of technologies including AWS and GCP.
+          I specialize in cloud infrastructure, systems engineering,software installation, automation, and CI/CD pipelines. I have experience with a wide range of technologies including AWS and GCP cloud platforms.
         </Text>
         <Text
           fontSize={{
@@ -160,12 +160,12 @@ const About = () => {
           </Box>
           <Box className="tools">
             <Image
-              src="/ansible.png"
-              alt="ansible logo"
+              src="/kubernetes.png"
+              alt="kubernetes logo"
               w={{ base: '2rem', sm: '2rem', md: '2rem', lg: '3rem', xl: '3rem', '2xl': '3rem' }}
             />
             <Text color="#8c9095" fontWeight="bold" fontSize="md">
-              Ansible
+              Kubernetes
             </Text>
           </Box>
           <Box className="tools">
@@ -180,12 +180,12 @@ const About = () => {
           </Box>
           <Box className="tools">
             <Image
-              src="/kubernetes.png"
-              alt="kubernetes logo"
+              src="/ansible.png"
+              alt="ansible logo"
               w={{ base: '2rem', sm: '2rem', md: '2rem', lg: '3rem', xl: '3rem', '2xl': '3rem' }}
             />
             <Text color="#8c9095" fontWeight="bold" fontSize="md">
-              Kubernetes
+              Ansible
             </Text>
           </Box>
           <Box className="tools">
@@ -195,7 +195,7 @@ const About = () => {
               w={{ base: '2rem', sm: '2rem', md: '2rem', lg: '3rem', xl: '3rem', '2xl': '3rem' }}
             />
             <Text color="#8c9095" fontWeight="bold" fontSize="md">
-              jenkins
+              Jenkins
             </Text>
           </Box>
           <Box className="tools">
