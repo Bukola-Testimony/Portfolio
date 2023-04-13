@@ -16,11 +16,7 @@ const Footer = () => {
           '2xl': '1rem',
         }}
       >
-        Designed and Developed with 💙 by{' '}
-        <Link href="https://linkedin.com/in/bukola-testimony" target="_blank">
-          Bukola Testimony
-        </Link>
-        .
+        Designed and Developed with 💙 
       </Text>
     </Flex>
   );

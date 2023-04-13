@@ -130,6 +130,16 @@ const About = () => {
           </Box>
           <Box className="tools">
             <Image
+              src="/gcp.png"
+              alt="agoogle cloud logo"
+              w={{ base: '2rem', sm: '2rem', md: '2rem', lg: '3rem', xl: '3rem', '2xl': '3rem' }}
+            />
+            <Text color="#8c9095" fontWeight="bold" fontSize="md">
+              Google Cloud
+            </Text>
+          </Box>
+          <Box className="tools">
+            <Image
               src="/git.png"
               alt="git logo"
               w={{ base: '2rem', sm: '2rem', md: '2rem', lg: '3rem', xl: '3rem', '2xl': '3rem' }}
@@ -170,6 +180,26 @@ const About = () => {
           </Box>
           <Box className="tools">
             <Image
+              src="/kubernetes.png"
+              alt="kubernetes logo"
+              w={{ base: '2rem', sm: '2rem', md: '2rem', lg: '3rem', xl: '3rem', '2xl': '3rem' }}
+            />
+            <Text color="#8c9095" fontWeight="bold" fontSize="md">
+              Kubernetes
+            </Text>
+          </Box>
+          <Box className="tools">
+            <Image
+              src="/jenkins.png"
+              alt="jenkins logo"
+              w={{ base: '2rem', sm: '2rem', md: '2rem', lg: '3rem', xl: '3rem', '2xl': '3rem' }}
+            />
+            <Text color="#8c9095" fontWeight="bold" fontSize="md">
+              jenkins
+            </Text>
+          </Box>
+          <Box className="tools">
+            <Image
               src="/linux.png"
               alt="linux logo"
               w={{ base: '2rem', sm: '2rem', md: '2rem', lg: '3rem', xl: '3rem', '2xl': '3rem' }}
@@ -185,7 +215,7 @@ const About = () => {
               w={{ base: '2rem', sm: '2rem', md: '2rem', lg: '3rem', xl: '3rem', '2xl': '3rem' }}
             />
             <Text color="#8c9095" fontWeight="bold" fontSize="md">
-             Bash Script
+             Shell Script
             </Text>
           </Box>
           <Box className="tools">
