@@ -42,7 +42,7 @@ const Hero = () => {
           fontWeight="bold"
           color="#8c9095"
         >
-          I am a cloud DevOps Engineer
+          I am a Cloud DevOps Engineer
         </Text>
         <Text
           data-aos="fade-up"
