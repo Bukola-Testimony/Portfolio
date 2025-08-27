@@ -70,12 +70,12 @@ const Contact = () => {
           <FaEnvelope />
         </Link>
 
-        <Link href="https://twitter.com/BukolaTestimony" target="_blank" className="logo">
+        <Link href="https://x.com/BukolaTestimony" target="_blank" className="logo">
           <FaTwitter />
         </Link>
 
-        <Link href="https://instagram.com/bukola_testimony" target="_blank" className="logo">
-          <FaInstagram />
+        <Link href="https://www.threads.com/@bukola_testimony" target="_blank" className="logo">
+          <FaThreads />
         </Link>
       </Flex>
     </Box>
