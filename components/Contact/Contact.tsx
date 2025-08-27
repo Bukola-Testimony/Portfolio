@@ -1,7 +1,8 @@
 import React from 'react';
 import { Box, Flex, Text, Link, Image } from '@chakra-ui/react';
 
-import { FaGithub, FaTwitter, FaLinkedin, FaEnvelope, FaThreads } from 'react-icons/fa';
+import { FaGithub, FaTwitter, FaLinkedin, FaEnvelope } from 'react-icons/fa';
+import { FaThreads } from 'react-icons/fa6';
 
 const Contact = () => {
   return (
