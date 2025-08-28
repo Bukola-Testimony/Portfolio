@@ -74,7 +74,7 @@ const Contact = () => {
           <FaTwitter />
         </Link>
 
-        <Link href="https://instagram.com/bukola_testimonyy" target="_blank" className="logo">
+        <Link href="https://www.threads.net/@bukola_testimony" target="_blank" className="logo">
           <FaInstagram />
         </Link>
       </Flex>
