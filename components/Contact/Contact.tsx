@@ -1,8 +1,7 @@
 import React from 'react';
 import { Box, Flex, Text, Link, Image } from '@chakra-ui/react';
 
-import { FaGithub, FaTwitter, FaLinkedin, FaEnvelope } from 'react-icons/fa';
-import { FaThreads } from 'react-icons/fa6';
+import { FaGithub, FaTwitter, FaLinkedin, FaEnvelope, FaInstagram } from 'react-icons/fa';
 
 const Contact = () => {
   return (
@@ -75,8 +74,8 @@ const Contact = () => {
           <FaTwitter />
         </Link>
 
-        <Link href="https://www.threads.com/@bukola_testimony" target="_blank" className="logo">
-          <FaThreads />
+        <Link href="https://instagram.com/bukola_testimonyy" target="_blank" className="logo">
+          <FaInstagram />
         </Link>
       </Flex>
     </Box>
